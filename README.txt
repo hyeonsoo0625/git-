@@ -6,3 +6,4 @@ git 공부
 3. git branch 생성
 4. pull 완료
 5. branch 생성 완료
+6. second branch 작업
