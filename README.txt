@@ -7,4 +7,4 @@ git 공부
 4. pull 완료
 5. branch 생성 완료
 6. third_branch 생성
-7. 충돌 확인 in git협업용
+7. 충돌확인
