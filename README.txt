@@ -8,3 +8,4 @@ git 공부
 5. branch 생성 완료
 6. third_branch 생성
 7. 충돌확인
+8. full request 확인
